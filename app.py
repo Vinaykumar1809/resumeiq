@@ -150,7 +150,7 @@ def _inject_styles() -> None:
 
 def _render_sidebar() -> None:
     st.sidebar.title("ResumeIQ")
-    st.sidebar.caption("Syllabus-aligned resume shortlisting and skill gap analysis.")
+    st.sidebar.caption("Resume shortlisting and skill gap analysis.")
     st.sidebar.markdown("### ML concepts used")
     st.sidebar.markdown(
         """
