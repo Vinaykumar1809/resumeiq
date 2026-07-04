@@ -1,0 +1,91 @@
+{
+  "programming_languages": [
+    "Python",
+    "Java",
+    "C",
+    "C++",
+    "C#",
+    "JavaScript",
+    "TypeScript",
+    "R",
+    "SQL"
+  ],
+  "machine_learning": [
+    "machine learning",
+    "supervised learning",
+    "classification",
+    "regression",
+    "decision tree",
+    "naive bayes",
+    "support vector machine",
+    "svm",
+    "knn",
+    "k-nearest neighbors",
+    "inductive bias",
+    "generalization",
+    "hypothesis evaluation",
+    "cross validation",
+    "Scikit-learn"
+  ],
+  "deep_learning_basics": [
+    "neural network",
+    "artificial neural network",
+    "gradient descent",
+    "backpropagation",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "data_analysis": [
+    "Pandas",
+    "NumPy",
+    "Excel",
+    "statistics",
+    "data cleaning",
+    "feature engineering",
+    "data preprocessing"
+  ],
+  "web_development": [
+    "HTML",
+    "CSS",
+    "React",
+    "React.js",
+    "Node.js",
+    "Flask",
+    "Django",
+    "Streamlit",
+    "REST API"
+  ],
+  "databases": [
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "SQLite",
+    "Oracle"
+  ],
+  "cloud_and_devops": [
+    "AWS",
+    "GCP",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "CI/CD",
+    "Linux"
+  ],
+  "data_visualization": [
+    "Matplotlib",
+    "Plotly",
+    "Tableau",
+    "Power BI",
+    "Seaborn"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Leadership",
+    "Problem solving",
+    "Critical thinking",
+    "Collaboration",
+    "Time management"
+  ]
+}
