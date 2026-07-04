@@ -1,6 +1,6 @@
 # ResumeIQ
 
-ResumeIQ is a Streamlit web app for syllabus-aligned resume shortlisting and skill gap analysis. It follows the product document in the parent `README.md`: upload a PDF resume, paste a job description, extract skills, compute match scores, predict a suitable role, and show recommendations in a clean dashboard.
+ResumeIQ is a Streamlit web app for resume shortlisting and skill gap analysis. It follows: upload a PDF resume, paste a job description, extract skills, compute match scores, predict a suitable role, and show recommendations in a clean dashboard.
 
 ## Features
 
@@ -14,9 +14,9 @@ ResumeIQ is a Streamlit web app for syllabus-aligned resume shortlisting and ski
 - Graceful fallback when model files are missing.
 - Tests for preprocessing, skill extraction, and similarity scoring.
 
-## Syllabus-Aligned ML Concepts
+##  ML Concepts
 
-The core implementation uses traditional machine learning concepts from the syllabus:
+The core implementation uses traditional machine learning concepts :
 
 - Well-defined learning problem: supervised multi-class resume category prediction.
 - Designing a learning system: parsing, preprocessing, features, learning, evaluation, prediction.
