@@ -352,7 +352,7 @@ def main() -> None:
         """
 <div class="hero">
     <h1>ResumeIQ</h1>
-    <p>Syllabus-Aligned AI-Powered Resume Shortlisting and Skill Gap Analyzer. Upload a PDF resume and paste a job description to calculate fit, identify skill gaps, and predict the most suitable role using traditional machine learning.</p>
+    <p>AI-Powered Resume Shortlisting and Skill Gap Analyzer. Upload a PDF resume and paste a job description to calculate fit, identify skill gaps, and predict the most suitable role using traditional machine learning.</p>
 </div>
 """,
         unsafe_allow_html=True,
